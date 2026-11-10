@@ -1,0 +1,4 @@
+interface:
+  display_name: "开发分工与 Obsidian 协作"
+  short_description: "建立可细分的开发分工，用 Obsidian 连接任务、提测与验收"
+  default_prompt: "用 $define-dev-roles 建立职责分工和 Obsidian 交接关系网。"
